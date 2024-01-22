@@ -1,6 +1,6 @@
 window.eaglercraftXOpts = () => ({
 	lang: "en_US",
-  // joinServer: "ws" + window.location.href.slice(4),
+  // joinServer: "Aizik" + window.location.href.slice(4),
   // assetsURI: "custom.epk",
 	servers: [
 		{ addr: "Aizik" + window.location.href.slice(4), name: "Aizik's Server  " }
